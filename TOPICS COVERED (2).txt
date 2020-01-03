@@ -1,0 +1,45 @@
+Vishist Training :
+
+
+*jar problem(we need to find the contaminated jar pills number).
+*ROUND ROBIN problem(based on priority).
+*folder having folders.
+*linked list swap.
+*Preorder,postorder,inorder.
+*command in eclipse.
+*watcherservice.
+*hashmap based on key, and based on value.
+=========================================================================================================================
+Inheritance.
+Deserialization,serialization.
+Child, parent class methods relationship.
+collections (interfaces,classes).
+[JAVA 8]
+filter.
+map.
+foreach.
+entrySet().
+comparator, comparable (traditional way).
+comparator,comparable( java 8 streams).
+java 8 features (methods).
+functional Interface- the interface which is having only one method in it.
+Exception handling.
+call by value. 
+call by reference.
+SHALLOW AND DEEP COMPARISION.
+failfast and failsafe.
+multi-threading.
+String Manipulation.
+regular expressions (IP Address).
+Access modifier,throws exception(accessibility).
+Design patters- creational( abstract factory,factory,builder,prototype,singleton).
+              - Structural( Composite,ridge,adapter,Decorator)
+              - Behavioural..
+
+=========================================================================================================================
+
+Spring Introduction
+
+
+
+
